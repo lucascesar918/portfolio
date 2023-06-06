@@ -77,10 +77,10 @@
     }
 
     .curtain img {
-      display: none;
-      // height: auto;
-      // width: 100%;
-      // border-radius: 39% 61% 71% 29% / 38% 29% 71% 62%;
+      display: block;
+      height: auto;
+      width: 100%;
+      border-radius: 39% 61% 71% 29% / 38% 29% 71% 62%;
     }
 
     // handle Curtains js error

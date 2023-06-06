@@ -11,7 +11,7 @@ import './themes'
 import './typed'
 
 // curtain js
-import './curtain'
+//import './curtain'
 
 // contact form functions
 import './contact'

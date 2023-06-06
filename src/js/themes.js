@@ -5,15 +5,15 @@ const themes = {
   light: {
     primary: '#ffffff',
     secondary: '#444f5a',
-    accent: '#0564bd',
+    accent: '#05aeaa',
     primaryRGB: '255, 255, 255',
     secondaryRGB: '68, 79, 90',
   },
 
   dark: {
-    primary: '#22222b',
-    secondary: '#a2a1a6',
-    accent: '#0564bd',
+    primary: '#101010',
+    secondary: '#f0f0f0',
+    accent: '#e07900',
     primaryRGB: '34, 34, 43',
     secondaryRGB: '162,161,166',
   },
