@@ -7973,8 +7973,8 @@ fieldset:disabled .btn {
 @font-face {
   font-display: block;
   font-family: bootstrap-icons;
-  src: url(assets/bootstrap-icons.cfe45b98.woff2) format("woff2"),
-    url(assets/bootstrap-icons.999550fa.woff) format("woff");
+  src: url(/assets/bootstrap-icons.cfe45b98.woff2) format("woff2"),
+    url(/assets/bootstrap-icons.999550fa.woff) format("woff");
 }
 .bi:before,
 [class^="bi-"]:before,
